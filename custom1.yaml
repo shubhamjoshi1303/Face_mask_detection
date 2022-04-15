@@ -1,0 +1,16 @@
+
+
+
+
+train: "/content/drive/MyDrive/YOLO/train"# train images 
+
+val: "/content/drive/MyDrive/YOLO/val"   # val images 
+
+test:  "/content/drive/MyDrive/YOLO/test"       # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['mask','no mask']  # class names
+
+
+
